@@ -202,9 +202,6 @@ public class TicTacToeGame
                 default :
                     System.out.println("Invalid Option");
                     break;
-            }
-
-
-        
+            }        
     }
 }
